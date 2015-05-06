@@ -16,9 +16,18 @@ Interests
 Work Experience
 ---------------
 
+*   **Chief Executive Officer** (Ireland)
+
+    MalCon Ventures, Sept 2014 - Present
+
+    -   Contracted to VideoLan spin off VideoLabs for VLC media player
+    -   Created a directx11 video output renderer for VLC from scratch.
+    -   Adapted GNU Binutils and Clang so that we could build VLC for WinRT and WP8 without visual studio.
+    -   Trained in creating media based apps using VLC as the driver for video and audio, across many platforms.
+
 *   **Chief Technical Officer** (Ireland)
 
-    Atom Split Games, March 2012 - Present
+    Atom Split Games, March 2012 - May 2014
 
     -   Ported the cocos2d-x game engine to Windows Phone 8 and WinRT
     -   Produced a networked game across multiple platforms including
@@ -44,7 +53,6 @@ Work Experience
     -   Worked on an Nintendo DS release title
     -   Created a full demo release on the PS3
     -   Worked on a full PSP release title
-    -   Rewrote a c game engine in c++
 
 *   **HomeBrew Hobbiest**
 
